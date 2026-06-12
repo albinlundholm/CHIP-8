@@ -1,0 +1,6 @@
+chip8.exe
+chip8
+.cache/
+.claude/
+.vscode/
+compile_commands.json
